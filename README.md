@@ -7,7 +7,7 @@
 
 ![PedroVirgilio GitHub stats](https://github-readme-stats.vercel.app/api?username=pvirgilio&show_icons=true&theme=radical)
 
-## Tecnologias que utilizo diariamente
+# Tecnologias que possuo conhecimento
 
 <div style="display: inline-block">
 <br/>
